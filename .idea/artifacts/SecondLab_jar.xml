@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SecondLab:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SecondLab_jar</output-path>
+    <root id="archive" name="SecondLab.jar">
+      <element id="module-output" name="SecondLab" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ITMOlab/out/artifacts/ITMOlab_jar/Pokemon.jar" path-in-jar="/" />
+      <element id="archive" name="secondlab.jar" />
+    </root>
+  </artifact>
+</component>
