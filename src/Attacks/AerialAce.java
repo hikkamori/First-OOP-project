@@ -19,7 +19,6 @@ public class AerialAce extends PhysicalMove {
     @Override
     protected String describe() {
         return "hits with Aerial Attacks!";
-
     }
 }
 

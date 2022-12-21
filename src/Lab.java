@@ -6,7 +6,7 @@ import java.util.List;
 public class Lab {
     public static void main(String[] args) {
         Battle b = new Battle();
-        Meowth meowthh = new Meowth(null, -33441, -39900, 45, 35, 40, 40, 90);
+        Meowth meowthh = new Meowth("meoww", -33441, -39900, 45, 35, 40, 40, 90);
         Steenee steenya = new Steenee("Steee", 1, -300, 40, 48, 40, 48, 62);
         Bounsweet bounsweety = new Bounsweet("bounsweety", 841, -300,30,38,30,38,32);
         Persian  persy = new Persian("persy", 1, -400,70,60,65,65,115);

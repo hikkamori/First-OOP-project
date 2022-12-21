@@ -13,6 +13,7 @@ public class WorkUp extends StatusMove {
         return "uses Work Up";
     }
 
+
     @Override
     protected void applySelfEffects(Pokemon pokemon) {
         pokemon.setMod(Stat.ATTACK, 1);
